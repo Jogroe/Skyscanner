@@ -1,5 +1,3 @@
-# Sky-scanner
-
-## To start the project
+# Skyscanner
 
 ### Run `npm start` or `yarn start`
